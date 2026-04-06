@@ -80,6 +80,20 @@ Insert: 50, 30, 70, 20, 40, 60, 80
 
 ---
 
+## 🖼️ Visual Diagram
+
+```mermaid
+graph TD
+    A[50] --> B[30]
+    A --> C[70]
+    B --> D[20]
+    B --> E[40]
+    C --> F[60]
+    C --> G[80]
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python 3.x
