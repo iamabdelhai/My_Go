@@ -94,7 +94,15 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+## �️ Screenshot
+
+![GitHub sign-in screenshot](screenshot.png)
+
+> Save the screenshot file as `screenshot.png` in this folder to display it in the README.
+
+---
+
+## �🛠️ Tech Stack
 
 - Python 3.x
 - Go 1.21+
